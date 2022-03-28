@@ -1,0 +1,1 @@
+import{R as e,r as t}from"./index.ef521b92.js";import{_ as n}from"./index.194ab25f.js";import{d as r,o as s,c as a,u as c}from"./vendor.a126c0d8.js";const f=r({setup(u){const o=()=>{t()};return(i,p)=>(s(),a(n,{style:{height:"100%"},desc:"Not Found","link-props":{to:{name:c(e).Login},text:"\u8FD4\u56DE\u767B\u9646",onClick:o}},null,8,["link-props"]))}});export{f as default};

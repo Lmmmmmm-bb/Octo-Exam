@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,m as n}from"./vendor.a126c0d8.js";const o={};function t(a,c){return r(),n("div",null,"Student Manage Enroll")}var s=e(o,[["render",t]]);export{s as default};
