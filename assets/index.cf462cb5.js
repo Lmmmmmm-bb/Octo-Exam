@@ -1,0 +1,1 @@
+import{u as o}from"./index.f787b2ac.js";import{d as t,o as n,n as r,I as s,u as a}from"./vendor.95b19c0f.js";const m=t({setup(u){const e=o();return(i,c)=>(n(),r("div",null,s(a(e).userConfig.studentName),1))}});export{m as default};
